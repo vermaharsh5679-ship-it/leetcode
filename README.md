@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0014-longest-common-prefix) |
 | [0169-majority-element](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0169-majority-element) |
 | [3731-find-missing-elements](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0392-is-subsequence) |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0392-is-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
