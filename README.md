@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0292-nim-game) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Brainteaser
 |  |
 | ------- |
