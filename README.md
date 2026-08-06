@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0014-longest-common-prefix) |
 | [0046-permutations](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0047-permutations-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Backtracking
 |  |
