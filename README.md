@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
