@@ -20,8 +20,12 @@ public:
             else{
                 res.push_back({nums[i],nums[j],nums[k]});
                 j++;
+                k--;
                 while(nums[j]==nums[j-1] && j<k){
                     j++;
+                }
+                 while(nums[k]==nums[k+1] && j<k){
+                    k--;
                 }
             }
         }
