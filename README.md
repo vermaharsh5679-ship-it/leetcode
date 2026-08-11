@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3731-find-missing-elements](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3731-find-missing-elements) |
+| [3925-concatenate-array-with-reverse](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,4 +171,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0844-backspace-string-compare) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3925-concatenate-array-with-reverse](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
