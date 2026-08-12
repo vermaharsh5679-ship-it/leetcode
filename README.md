@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1046-last-stone-weight](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1046-last-stone-weight) |
