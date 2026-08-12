@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0645-set-mismatch) |
 ## Linked List
