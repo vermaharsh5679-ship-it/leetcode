@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1046-last-stone-weight](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1046-last-stone-weight) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0905-sort-array-by-parity) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1768-merge-strings-alternately) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Backtracking
 |  |
 | ------- |
