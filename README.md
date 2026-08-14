@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0771-jewels-and-stones) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0141-linked-list-cycle) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
