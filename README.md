@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0055-jump-game) |
+| [0338-counting-bits](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0645-set-mismatch) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
