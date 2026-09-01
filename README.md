@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3731-find-missing-elements) |
+| [3895-count-digit-appearances](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3895-count-digit-appearances](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3895-count-digit-appearances) |
 ## Brainteaser
 |  |
 | ------- |
