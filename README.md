@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0029-divide-two-integers) |
 | [0292-nim-game](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0292-nim-game) |
 | [0633-sum-of-square-numbers](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0338-counting-bits) |
