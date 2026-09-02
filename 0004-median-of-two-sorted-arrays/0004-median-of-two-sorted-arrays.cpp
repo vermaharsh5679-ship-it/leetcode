@@ -7,7 +7,6 @@ public:
             nums1.push_back(nums2[i]) ;
         }
         sort(nums1.begin(),nums1.end());
-
         if(nums1.size() % 2 == 1)
         {
             return nums1[nums1.size()/2];
@@ -15,8 +14,5 @@ public:
         else{
             return (nums1[nums1.size()/2] + nums1[nums1.size()/2 - 1])/2.0 ;
         }
-
-        
-        
     }
 };
