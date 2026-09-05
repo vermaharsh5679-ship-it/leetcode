@@ -11,18 +11,21 @@
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        ListNode dummy(0); 
-        dummy.next = head;
-       ListNode*slow=&dummy;
-       ListNode*fast=&dummy;
+        ListNode dummy(0);
+        dummy.next = head; // edge case agr head deleet karna hua to isliye
+                           // dummy node banaya taki specail case na likhna pade
+
+        ListNode* slow = &dummy;
+        ListNode* fast = &dummy;
         for (int i = 0; i < n; i++) {
-            fast = fast->next;
+            fast = fast->next; // nstep aage badha diya
         }
         while (fast->next != nullptr) {
-            slow = slow->next;
+            slow = slow->next; // ab tortoise an dhare method ka use karke slow
+                               // nikal liye
             fast = fast->next;
-        }
-        slow->next=slow->next->next;
+        } // slow ka agla hi dletion node h us hata do
+        slow->next = slow->next->next;
         return dummy.next;
     }
 };
