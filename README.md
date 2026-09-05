@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0645-set-mismatch) |
+| [0867-transpose-matrix](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1046-last-stone-weight](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1046-last-stone-weight) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -304,4 +306,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
