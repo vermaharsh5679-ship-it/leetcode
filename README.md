@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0342-power-of-four) |
 | [0633-sum-of-square-numbers](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2029-stone-game-ix](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2029-stone-game-ix) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0645-set-mismatch) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0342-power-of-four) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
