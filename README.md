@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0048-rotate-image) |
 | [0292-nim-game](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0292-nim-game) |
 | [0633-sum-of-square-numbers](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
