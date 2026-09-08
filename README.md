@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0941-valid-mountain-array](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0941-valid-mountain-array) |
 | [1046-last-stone-weight](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1046-last-stone-weight) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
