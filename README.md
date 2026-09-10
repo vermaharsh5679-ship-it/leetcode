@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0509-fibonacci-number) |
 ## Trie
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2029-stone-game-ix](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2029-stone-game-ix) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -350,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0056-merge-intervals) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
