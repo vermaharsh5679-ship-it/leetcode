@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0189-rotate-array) |
 | [0260-single-number-iii](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0455-assign-cookies) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0392-is-subsequence) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0326-power-of-three) |
