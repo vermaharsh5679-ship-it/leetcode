@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2029-stone-game-ix) |
 | [2396-strictly-palindromic-number](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2485-find-the-pivot-integer](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2485-find-the-pivot-integer](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
