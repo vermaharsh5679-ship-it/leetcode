@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2740-find-the-value-of-the-partition](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2740-find-the-value-of-the-partition) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2740-find-the-value-of-the-partition](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2740-find-the-value-of-the-partition) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
