@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0941-valid-mountain-array) |
 | [1046-last-stone-weight](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1046-last-stone-weight) |
+| [1402-reducing-dishes](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1402-reducing-dishes) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0905-sort-array-by-parity) |
+| [1402-reducing-dishes](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1402-reducing-dishes) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0509-fibonacci-number) |
+| [1402-reducing-dishes](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1402-reducing-dishes) |
 ## Trie
 |  |
 | ------- |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1402-reducing-dishes](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1402-reducing-dishes) |
 | [1833-maximum-ice-cream-bars](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1903-largest-odd-number-in-string) |
