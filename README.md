@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Zero-Sum Game
