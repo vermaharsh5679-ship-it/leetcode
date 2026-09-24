@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2740-find-the-value-of-the-partition](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2740-find-the-value-of-the-partition) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 ## Minimax
 |  |
 | ------- |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0645-set-mismatch) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Linked List
 |  |
