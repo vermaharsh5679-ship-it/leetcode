@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0941-valid-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1046-last-stone-weight) |
 | [1402-reducing-dishes](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1402-reducing-dishes) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0875-koko-eating-bananas](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2485-find-the-pivot-integer](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3904-smallest-stable-index-ii) |
