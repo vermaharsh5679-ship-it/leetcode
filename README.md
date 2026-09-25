@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0260-single-number-iii](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0455-assign-cookies) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0374-guess-number-higher-or-lower) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2485-find-the-pivot-integer](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3903-smallest-stable-index-i) |
