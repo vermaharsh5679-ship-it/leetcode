@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1732-find-the-highest-altitude](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/3904-smallest-stable-index-ii) |
