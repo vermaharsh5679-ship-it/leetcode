@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -466,4 +467,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
