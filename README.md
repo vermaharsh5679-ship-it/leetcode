@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0941-valid-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1094-car-pooling) |
 | [1402-reducing-dishes](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1402-reducing-dishes) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0905-sort-array-by-parity) |
+| [1094-car-pooling](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1094-car-pooling) |
 | [1402-reducing-dishes](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1402-reducing-dishes) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0867-transpose-matrix) |
+| [1094-car-pooling](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1094-car-pooling) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1094-car-pooling) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -443,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1094-car-pooling) |
 | [1208-get-equal-substrings-within-budget](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1732-find-the-highest-altitude](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/vermaharsh5679-ship-it/leetcode/tree/master/1991-find-the-middle-index-in-array) |
